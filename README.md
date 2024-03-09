@@ -72,10 +72,7 @@ npm start
 
 ![image](https://github.com/runtime-terror-63/KityHub/assets/94905513/5cf998c0-07da-4be9-80f4-5dd47f148995)
 
-
-
-
-
+![image](https://github.com/runtime-terror-63/KityHub/assets/94905513/d39890b0-3256-41f3-b309-ed2aa1639a84)
 
 ## Usage
 
