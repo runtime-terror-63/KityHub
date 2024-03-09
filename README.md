@@ -41,6 +41,12 @@ Welcome to KityHub, your ultimate GitHub Profile Explorer! KityHub is a powerful
 
 ![image](https://github.com/runtime-terror-63/KityHub/assets/94905513/ddc751bf-433a-42a3-ae1d-80acd2699dab)
 
+![image](https://github.com/runtime-terror-63/KityHub/assets/94905513/feb9f70b-c450-4f5d-9ff9-cd3ab059e72d)
+
+![image](https://github.com/runtime-terror-63/KityHub/assets/94905513/5cf998c0-07da-4be9-80f4-5dd47f148995)
+
+
+
 
 
 
