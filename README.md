@@ -33,7 +33,7 @@ Welcome to KityHub, your ultimate GitHub Profile Explorer! KityHub is a powerful
    - ⚙️ **Backend**: `npm start`
 
 
-##PassportjS Authentication WorkFlow
+## Passport.jS Authentication WorkFlow
 ![diagram-export-3-10-2024-1_46_54-AM](https://github.com/runtime-terror-63/KityHub/assets/94905513/8624d83c-f916-43db-afb8-a13e9350ba02)
 
 
