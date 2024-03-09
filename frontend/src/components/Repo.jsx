@@ -5,9 +5,9 @@ import { PROGRAMMING_LANGUAGES } from "../utils/constants";
 import toast from "react-hot-toast";
 
 const Repo = ({ repo }) => {
-  const formattedDate = formatDate(repo.created_at);
+	const formattedDate = formatDate(repo.created_at);
 
-  const handleCloneClick = async (repo) => {
+	const handleCloneClick = async (repo) => {
     try {
       await navigator.clipboard.writeText(repo.clone_url);
       toast.success("Repo URL cloned to clipboard");
@@ -16,7 +16,7 @@ const Repo = ({ repo }) => {
     }
   };
 
-  return (
+	return (
     <li className="mb-10 ms-7">
       <span
         className="absolute flex items-center justify-center w-6 h-6 bg-blue-100

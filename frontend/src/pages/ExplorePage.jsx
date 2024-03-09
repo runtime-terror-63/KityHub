@@ -66,6 +66,30 @@ const ExplorePage = () => {
             className="h-11 sm:h-20 cursor-pointer"
             onClick={() => exploreRepos("Kotlin")}
           />
+          <img
+            src="/swift.svg"
+            alt="Swift logo"
+            className="h-11 sm:h-20 cursor-pointer"
+            onClick={() => exploreRepos("Swift")}
+          />
+          <img
+            src="/dart.svg"
+            alt="dart logo"
+            className="h-11 sm:h-20 cursor-pointer"
+            onClick={() => exploreRepos("Dart")}
+          />
+          <img
+            src="/go-1.svg"
+            alt="go logo"
+            className="h-11 sm:h-20 cursor-pointer"
+            onClick={() => exploreRepos("Go")}
+          />
+          <img
+            src="/solidity.svg"
+            alt="solidity logo"
+            className="h-11 sm:h-20 cursor-pointer"
+            onClick={() => exploreRepos("Solidity")}
+          />
         </div>
         {repos.length > 0 && (
           <h2 className="text-lg font-semibold text-center my-4">
