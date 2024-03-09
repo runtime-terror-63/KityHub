@@ -31,6 +31,21 @@ Welcome to KityHub, your ultimate GitHub Profile Explorer! KityHub is a powerful
 4. **Run the Application**:
    - ⚙️ **Frontend**: `npm run dev`
    - ⚙️ **Backend**: `npm start`
+  
+# .env file setup
+PORT=5000
+MONGO_URI=YOUR_MONGODB_URI
+GITHUB_API_KEY=YOUR_GITHUB_API_KEY
+GITHUB_CLIENT_ID=YOUR_GITHUB_CLIENT_ID
+GITHUB_CLIENT_SECRET=YOUR_GITHUB_CLIENT_SECRET
+CLIENT_BASE_URL=YOUR_CLIENT_BASE_URL
+
+# Build the app
+npm run build
+
+# Start the app
+npm start
+
 
 
 ## Passport.jS Authentication WorkFlow
