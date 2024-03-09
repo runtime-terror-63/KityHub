@@ -41,12 +41,14 @@ To start the application, follow these steps:
 2. Set up your environment variables by creating a `.env` file in the root directory of your project. Copy and paste the following content into the `.env` file:
 
 ```plaintext
+# .env file setup
 PORT=5000
-MONGO_URI=
-GITHUB_API_KEY=
-GITHUB_CLIENT_ID=
-GITHUB_CLIENT_SECRET=
-CLIENT_BASE_URL=
+MONGO_URI=YOUR_MONGODB_URI
+GITHUB_API_KEY=YOUR_GITHUB_API_KEY
+GITHUB_CLIENT_ID=YOUR_GITHUB_CLIENT_ID
+GITHUB_CLIENT_SECRET=YOUR_GITHUB_CLIENT_SECRET
+CLIENT_BASE_URL=YOUR_CLIENT_BASE_URL
+
 
 
 # Build the app
@@ -54,6 +56,7 @@ npm run build
 
 # Start the app
 npm start
+```
 
 
 
