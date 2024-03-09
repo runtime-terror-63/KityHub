@@ -21,6 +21,10 @@ const ProfileInfo = ({ userProfile }) => {
   // 	twitter_username: "johndoe",
   // 	login: "johndoe",
   // };
+  if (!userProfile) {
+    return null; // Don't render anything if userProfile is null
+  }
+
 
   const memberSince = formatMemberSince(userProfile?.created_at);
 

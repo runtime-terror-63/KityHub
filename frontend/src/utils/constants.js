@@ -10,4 +10,6 @@ export const PROGRAMMING_LANGUAGES = {
   HTML: "/html.svg",
   CSS: "/css.svg",
   Kotlin: "/kotlin.svg",
+  Dart: "/dart.svg",
+  Solidity: "/solidity.svg",
 };

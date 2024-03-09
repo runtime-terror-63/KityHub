@@ -8,7 +8,7 @@ import SortRepos from "../components/SortRepos";
 import Spinner from "../components/Spinner";
 
 const HomePage = () => {
-  const [userProfile, setUserProfile] = useState(null);
+	const [userProfile, setUserProfile] = useState(null);
   const [repos, setRepos] = useState([]);
   const [loading, setLoading] = useState(false);
 

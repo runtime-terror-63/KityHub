@@ -79,7 +79,7 @@ const ExplorePage = () => {
             onClick={() => exploreRepos("Dart")}
           />
           <img
-            src="/go-1.svg"
+            src="/go.svg"
             alt="go logo"
             className="h-11 sm:h-20 cursor-pointer"
             onClick={() => exploreRepos("Go")}
