@@ -36,6 +36,13 @@ Welcome to KityHub, your ultimate GitHub Profile Explorer! KityHub is a powerful
 ## Passport.jS Authentication WorkFlow
 ![diagram-export-3-10-2024-1_46_54-AM](https://github.com/runtime-terror-63/KityHub/assets/94905513/8624d83c-f916-43db-afb8-a13e9350ba02)
 
+??Screenshots📷
+![image](https://github.com/runtime-terror-63/KityHub/assets/94905513/50056e63-2183-4fdc-acb9-1d78b698f280)
+
+![image](https://github.com/runtime-terror-63/KityHub/assets/94905513/ddc751bf-433a-42a3-ae1d-80acd2699dab)
+
+
+
 
 ## Usage
 
